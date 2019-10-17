@@ -7,7 +7,7 @@ def find_element_index(array, value_to_find)
   end
   }
   if index > length
-    puts nil
+    return nil
   end
 end
 
